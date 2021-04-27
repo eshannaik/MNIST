@@ -4,6 +4,7 @@
 ### This project is on the MNIST dataset.
 ___________________________________________________________________________________
 #### This project was made only for learning purposes.
+#### Will add a way to input your own image using a GUI made from Tkinter soon.
 ___________________________________________________________________________________
 #### The project uses CNN and GRU to help classify the digits from the MNIST dataset.
 ___________________________________________________________________________________
