@@ -3,6 +3,7 @@
 ### This is a self made project done on Google Colab.
 ### This project is on the MNIST dataset.
 ___________________________________________________________________________________
+
 #### This project was made only for learning purposes.
 #### Will add a way to input your own image using a GUI made from Tkinter soon.
 ___________________________________________________________________________________
