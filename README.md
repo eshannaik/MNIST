@@ -5,7 +5,7 @@
 ___________________________________________________________________________________
 
 #### This project was made only for learning purposes.
-#### Will add a way to input your own image using a GUI made from Tkinter soon.
+#### Can input user image and predict for CNN.
 ___________________________________________________________________________________
 #### The project uses CNN and GRU to help classify the digits from the MNIST dataset.
 ___________________________________________________________________________________
